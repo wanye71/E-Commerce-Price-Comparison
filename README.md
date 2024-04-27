@@ -53,6 +53,11 @@ To get started with the project, follow these steps:
     ```bash
     code .
     ```
+5. **Open in Visual Studio Code**: You can open the `price_comparison.py` script in Visual Studio Code directly by running the following command:
+
+    ```bash
+    code price_comparison.py
+    ```
 
 ## Install Dependencies
 
